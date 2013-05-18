@@ -1,0 +1,37 @@
+markdown: kramdown
+pygments: true
+safe: false
+permalink: /posts/:title.html
+exclude:
+  - README.md
+
+name: 小楼一夜听春雨
+host: hw0wei.github.com
+desc: 春雨站在小楼前看我，眼神，有着我不懂的哀伤.
+
+custom:
+    category:
+        technique: 点滴积累
+        linux: Linux(fedora)
+        life: 点滴生活
+    categories:
+      - name:  technique
+        title: 点滴积累
+
+      - name:  linux
+        title: Linux(fedora)
+
+      - name:  life
+        title: 点滴生活
+meta:
+    author:
+        name: hw0wei<hw0wei@gmail.com>
+        email: hw0wei@163.com
+        disqus: your-disqus-short-name              # Disqus缩略标识
+        gcse: 000346898720731947188:13h55x32l0y     # Google自定义搜索标识ID
+        github: hw0wei                              # GitHub账号
+        gravatar: 778ff4d37838b3ab5104d7d8a27e19ea  # Gravatar头像标识
+
+    disqus: disqus.com/embed.js                     # Disqus评论的JS地址
+    gapi: http://www.google.com/jsapi               # Google API地址
+    gravatar: http://cn.gravatar.com/avatar/        # Gravatar头像服务器地址
