@@ -1,3 +1,12 @@
+---
+layout: post
+title: "VIM常见命令总结"
+category: linux
+tags: [VIM][GVIM]
+description: |
+  VIM常见命令技巧总结
+---
+
 VIM常见命令总结
 ===
 
@@ -16,7 +25,6 @@ VIM常用模式有4中：Normal Mode、Insert mode、Visaul Mode和Command-line 
     O   在光标所在行的上一行出插入
     r   替换光标处的字符
     R   持续替换光标处的字符，直到按下ESC
-
 
 2.Normal Mode -> Command-line Mode
 
