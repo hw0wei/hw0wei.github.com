@@ -2,7 +2,7 @@
 layout: post
 title: "VIM常见命令总结"
 category: linux
-tags: [VIM][GVIM]
+tags: [VIM,GVIM]
 description: |
   VIM常见命令技巧总结
 ---
